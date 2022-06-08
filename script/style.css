@@ -1,0 +1,47 @@
+body{
+  background-image: url("../images/53a7802dbcf6482588398b06cc78dd9d.jpg");
+}
+
+h1 {
+  text-align: center;
+  padding: 23px;
+  background-color: rgb(265, 185, 254);
+  color: white;
+}
+
+#clear {
+  width: 270px;
+  border: 3px solid rgb(23, 19, 19);
+  border-radius: 3px;
+  padding: 20px;
+  background-color: rgb(109, 33, 94);
+}
+
+.formstyle {
+  width: 300px;
+  height: 530px;
+  margin: auto;
+  border: 3px solid rgb(48, 79, 91);
+  border-radius: 5px;
+  padding: 20px;
+}
+
+input {
+  width: 20px;
+  background-color: rgb(222, 209, 218);
+  color: white;
+  border: 3px solid gray;
+  border-radius: 5px;
+  padding: 26px;
+  margin: 5px;
+  font-size: 15px;
+}
+
+#calc {
+  width: 250px;
+  border: 5px solid black;
+  border-radius: 3px;
+  padding: 20px;
+  margin: auto;
+}
+
